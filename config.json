@@ -1,0 +1,5 @@
+{
+    "SLACK_TOKEN": "xxxxx",
+    "GCP_PROJECT_ID": "yyyyy",
+    "DATASTORE_KIND": "zzz"
+}
